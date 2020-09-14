@@ -5,5 +5,7 @@ The robot has been developed and programmed by IC 4093 control. Designed to move
 
 [Click here - To view this DIY project on hackster.io](https://www.hackster.io/pranavkhatale/obstacle-avoider-robot-using-nand-gate-ic-4093-a3d46c)
 
-![Project Image](https://github.com/pranavkhatale/Obstacle-Avoider-Robot-using-NAND-Gate-IC-4093/blob/master/Final%20Project%20Image.jpg?raw=true)
 For schematic diagram, required parts & other details visit [Wiki](https://github.com/pranavkhatale/Obstacle-Avoider-Robot-using-NAND-Gate-IC-4093/wiki/) page of this repository.
+
+![Project Image](https://github.com/pranavkhatale/Obstacle-Avoider-Robot-using-NAND-Gate-IC-4093/blob/master/Final%20Project%20Image.jpg?raw=true)
+
